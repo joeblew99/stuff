@@ -4,3 +4,6 @@ For desktop apps i need to be able to call GRPC generated code as a library, NOT
 
 This is my attemtp to do this.
 
+desktop
+
+
